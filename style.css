@@ -1,0 +1,21 @@
+.container{
+    border: solid;
+    background-color:aqua;
+    width: fit-content;
+    height: 500pxpx;
+
+}
+
+table thead{
+    margin: px;
+}
+
+
+
+
+input{
+    width:max-content;
+    height:50px;
+    background-color: rgba(193, 188, 180, 0.724);
+    border: none;
+}
